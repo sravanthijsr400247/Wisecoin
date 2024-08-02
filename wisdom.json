@@ -2,7 +2,15 @@
   "name": "Wisecoin",
   "symbol": "WISD",
   "uri": "https://raw.githubusercontent.com/sravanthijsr400247/Wisecoin/main/wisd.json",
-  "image": "https://raw.githubusercontent.com/sravanthijsr400247/Wisecoin/main/logo.png",
+  "image": "https://raw.githubusercontent.com/sravanthijsr400247/Wisecoin/main/logo.png", 
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/sravanthijsr400247/Wisecoin/main/logo.png",
+                "type": "image/png"
+            }
+        ]
+    },
   "tags": ["Airdrop", "Loyalty"],
   "website": "https://investing.crowdwisdom.live",
   "telegram": "https://t.me/CrowdWisdom360",
