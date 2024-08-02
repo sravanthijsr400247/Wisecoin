@@ -1,4 +1,11 @@
 {
   "name": "Wisecoin",
-  "symbol": "WISD"
+  "symbol": "WISD",
+  "uri": "https://github.com/sravanthijsr400247/Wisecoin/blob/main/wisd.json",
+  "logo": "https://github.com/sravanthijsr400247/Wisecoin/blob/main/logo.png",
+  "tags": ["Airdrop", "Loyalty"],
+  "website": "https://investing.crowdwisdom.live",
+  "telegram": "https://t.me/CrowdWisdom360",
+  "twitter": "https://x.com/CrowdWisdom360",
+  "description": "Crowdwisdom360's Wisecoin Token"
 }
