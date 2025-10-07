@@ -2,7 +2,7 @@
   "name": "Wisecoin",
   "symbol": "WISD",
   "uri": "https://raw.githubusercontent.com/sravanthijsr400247/Wisecoin/main/wisd.json",
-  "image": "https://raw.githubusercontent.com/sravanthijsr400247/Wisecoin/main/logo.png", 
+  "image": "https://cdn.jsdelivr.net/gh/sravanthijsr400247/Wisecoin/logo.png", 
     "properties": {
         "files": [
             {
