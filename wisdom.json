@@ -6,7 +6,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/sravanthijsr400247/Wisecoin/main/logo.png",
+                "uri": "https://cdn.jsdelivr.net/gh/sravanthijsr400247/Wisecoin/logo.png",
                 "type": "image/png"
             }
         ]
@@ -17,3 +17,4 @@
   "twitter": "https://x.com/CrowdWisdom360",
   "description": "Crowdwisdom360's Wisecoin Token"
 }
+
